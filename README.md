@@ -1,1 +1,3 @@
-# ●	Sentiment analysis from text data collected from twitter using Python.
+# Sentiment Analysis
+
+Sentiment analysis from text data collected from twitter using Python. 
