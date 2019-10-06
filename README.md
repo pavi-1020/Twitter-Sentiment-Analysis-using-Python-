@@ -1,2 +1,1 @@
-# pavi-1020.github.io
-Data Science and Analytics Portfolio
+# ●	Sentiment analysis from text data collected from twitter using Python.
